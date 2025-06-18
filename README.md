@@ -1,4 +1,4 @@
-# Estrutira
+# Estrutura
 
 
 ```bash
